@@ -1,0 +1,96 @@
+/**
+ * A thin layer on top of normalize.css that provides a starting point more
+ * suitable for web applications.
+ */
+
+/**
+ * Prevent margin and border from affecting element width.
+ * https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+ * `input[type="search"]` overrides normalize.css more specific rule.
+ */
+
+html {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+/**
+ * Removes the default spacing and border for appropriate elements.
+ */
+/* HTML5 display-role reset for older browsers */
+
+table {
+  border: 1px solid rgb(60,79,96);
+  margin-bottom: 2em;
+  text-align: left;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%
+ }
+
+th {
+  font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding: 1em;
+  background: rgb(60,79,96);
+  color: #fff;
+ }
+
+td {
+  padding: 0.5em;
+  border: 1px solid rgb(60,79,96);
+  max-width: 12em;
+  min-width: 5em;
+ }
+
+/**
+ * Work around a Firefox/IE bug where the transparent `button` background
+ * results in a loss of the default `button` focus styles.
+ */
+
+button:focus {
+  outline: 1px dotted;
+  outline: 5px auto -webkit-focus-ring-color;
+}
+
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+iframe {
+  border: 0;
+}
+
+ol,
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/**
+ * Suppress the focus outline on elements that cannot be accessed via keyboard.
+ * This prevents an unwanted focus outline from appearing around elements that
+ * might still respond to pointer events.
+ */
+
+[tabindex="-1"]:focus {
+  outline: none !important;
+}
+
+:global(#container) {
+  width: 100%;
+
+  @media (min-width: 960px) {
+    width: 960px;
+    margin: 0 auto;
+  }
+}
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
