@@ -6,7 +6,7 @@
 ##K2.Tasks有哪些功能？
 
 * 方便快捷的任务审批，集成`蜜蜂`应用，在`IOS`与`Android`做可以任务审批 
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+* 任务推送，如果有当前用户有新的待办任务，会主动Push到手机上，并做提醒
 
 ##依赖项
 * 蜜蜂
@@ -25,7 +25,22 @@
 * `http://localhost:8080/?uc_account=jackf&uc_token=123456`
 
 ##效果
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+* 架构
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/System.png)
+
+*视频
+
+* 静态
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0985.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0986.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0987.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0988.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0989.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0990.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0991.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0992.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0993.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0994.PNG)
 
 
 ##有问题反馈
