@@ -28,7 +28,19 @@
 ![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/System.png)
 
 * 视频
-<iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=q03146jm54b&tiny=0&auto=0" allowfullscreen></iframe>
+[查看演示视频](http://v.qq.com/iframe/player.html?vid=q03146jm54b&tiny=0&auto=0)
+* 静态
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0985.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0986.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0987.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0988.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0989.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0990.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0991.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0992.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0993.PNG)
+![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0994.PNG)
+
 
 ##有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
