@@ -29,6 +29,7 @@
 
 * 视频
 <iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=q03146jm54b&tiny=0&auto=0" allowfullscreen></iframe>
+[](https://youtubevideourl)
 * 静态
 ![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0985.PNG)
 ![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/IMG_0986.PNG)
@@ -49,5 +50,4 @@
 * QQ: 838869280
 
 ##关于作者
-
 
