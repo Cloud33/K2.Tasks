@@ -27,7 +27,13 @@
 * 架构
 ![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/System.png)
 
+<<<<<<< HEAD
 * [演示视频](http://v.qq.com/iframe/player.html?vid=q03146jm54b&tiny=0&auto=0)
+=======
+* 视频
+
+[查看演示视频](http://v.qq.com/iframe/player.html?vid=q03146jm54b&tiny=0&auto=0)
+>>>>>>> 62312259b10224181e8c407056d008b5f35d43f6
 
 * 静态
 
