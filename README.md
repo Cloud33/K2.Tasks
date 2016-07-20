@@ -11,7 +11,7 @@
 ##依赖项
 * 蜜蜂
 * K2 BPM 运行环境
-* K2.Tasks后端
+* [K2.Tasks-Service](https://github.com/Cloud33/K2.Tasks-Service)
 * Kstar(提供流程发起+表单数据)
 * [lib-flexible](https://github.com/amfe/lib-flexible)
 * [React](https://github.com/facebook/react)
@@ -23,7 +23,7 @@
 * `npm start`
 * `http://localhost:8080/?uc_account=jackf&uc_token=123456`
 
-##效果
+##说明
 * 架构
 ![image](https://github.com/Cloud33/K2.Tasks/raw/master/img/System.png)
 
